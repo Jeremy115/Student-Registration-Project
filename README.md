@@ -1,2 +1,6 @@
 # Student-Registration-Project
-Sign up for classes at college project. 
+Sign up for college classes using a registration system. 
+
+
+
+
